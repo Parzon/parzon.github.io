@@ -1,12 +1,13 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Hi, I'm Parzon! I am currently a PhD Candidate at Claremont Graduate University, specializing in Information Systems and Technology with a focus on Data Science. My research primarily explores Generative AI and Large Language Models for cross-domain applications, as well as Machine Learning for Healthcare Applications. Currently, I am expanding my expertise into computer vision to broaden my application surface and engage in more diverse projects.
 
 #### Email
-sli[at]cumt.edu.cn
+parzon-eyzadpur.fardani[at]cgu.edu
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+- PhD in Information Systems and Technology (Focus: Data Science), Claremont Graduate University, 2022 - Present
+- MSc in Data Science and Big Data Technology, Claremont Graduate University, 2018 - 2022
+- BBA in International Business and Business Analytics, MIT-WPU, 2019-2022
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research interests include Deep Learning, Artificial Intelligence, Data Intensive Applications, Machine Learning in Healthcare, Legal Data mining and applications. 
+
