@@ -5,6 +5,10 @@ I always enjoy extra-curriculars, as I'm currently the Machine Learning Club Pre
 #### Email
 parzon-eyzadpur.fardani[at]cgu.edu
 
+#### Resume
+[View my resume](https://drive.google.com/file/d/13FcqagRd4IGeCz9rdNU1OLrCohvlIEqA/view?usp=sharing)
+
+
 #### Education
 - PhD in Information Systems and Technology (Focus: Data Science), Claremont Graduate University, 2024 - Present
 - MSc in Information Systems and Technology (Focus: Data Science), 2023 - 2024
