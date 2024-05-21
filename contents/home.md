@@ -4,10 +4,8 @@ Hi, I'm Parzon! I am currently a PhD Candidate at Claremont Graduate University,
 parzon-eyzadpur.fardani[at]cgu.edu
 
 #### Education
-- PhD in Information Systems and Technology (Focus: Data Science), Claremont Graduate University, 2022 - Present
-- MSc in Data Science and Big Data Technology, Claremont Graduate University, 2018 - 2022
+- PhD in Information Systems and Technology (Focus: Data Science), Claremont Graduate University, 2024 - Present
+- MSc in Information Systems and Technology (Focus: Data Science), 2023 - 2024
 - BBA in International Business and Business Analytics, MIT-WPU, 2019-2022
 
-#### Research Interests
-My research interests include Deep Learning, Artificial Intelligence, Data Intensive Applications, Machine Learning in Healthcare, Legal Data mining and applications. 
 
