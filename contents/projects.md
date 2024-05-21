@@ -8,11 +8,13 @@ In a significant stride towards enhancing cancer care, I developed a machine lea
 
 [View on GitHub](https://github.com/Parzon/C-SCLC-PrognosisML)
 
+
 #### CGU AI Bot: Revolutionizing Campus Communication
 
 I spearheaded the development of an internal AI-driven chatbot for Claremont Graduate University, designed to streamline information access for both staff and new students. This project employed fine-tuned language models with Retrieval Augmented Generation (RAG) and was built using the cutting-edge LangChain and GPT APIs. For easy deployment and user interaction, we utilized Streamlit to create a robust, intuitive interface.
 
 [View on GitHub](https://github.com/Parzon/CGU-AIChatbot)
+
 
 #### Student Loan Risk Assessor
 
@@ -20,11 +22,13 @@ Tackling the complexities of financial data, the Student Loan Risk Assessor leve
 
 [View on GitHub](https://github.com/Parzon/StudentLoanRiskAsseser) 
 
+
 #### Artificial Consciousness Design Artifact
 
 Pushing the boundaries of AI, this project aims at creating a digital persona that can respond with facial expressions based on visual and voice sentiment analysis. This initiative explores the intersection of emotional AI and human-computer interaction, paving the way for more empathetic and intuitive digital interactions.
 
 [View on GitHub](https://github.com/Parzon/BabyClare)
+
 
 ---
 
