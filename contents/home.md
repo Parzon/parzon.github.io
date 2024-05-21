@@ -3,7 +3,7 @@ Hi, I'm Parzon! I am currently a PhD Candidate at Claremont Graduate University,
 I always enjoy extra-curriculars, as I'm currently the Machine Learning Club President at CGU, under the Mathematics and Data Science departments. 
 
 #### Email
-parzon-eyzadpur.fardani[at]cgu.edu
+parzon-eyzadpur.fardani@cgu.edu
 
 #### Resume
 [View my resume](https://drive.google.com/file/d/13FcqagRd4IGeCz9rdNU1OLrCohvlIEqA/view?usp=sharing)
