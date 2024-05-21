@@ -1,9 +1,6 @@
-
-
-const content_dir = 'contents/'
-const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards']
-
+const content_dir = 'contents/';
+const config_file = 'config.yml';
+const section_names = ['home', 'research-interests', 'awards', 'projects', 'experience'];  // Added 'experience' to the array
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -14,13 +11,11 @@ window.addEventListener('DOMContentLoaded', event => {
             target: '#mainNav',
             offset: 74,
         });
-    };
+    }
 
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
-    const responsiveNavItems = [].slice.call(
-        document.querySelectorAll('#navbarResponsive .nav-link')
-    );
+    const responsiveNavItems = [].slice.call(document.querySelectorAll('#navbarResponsive .nav-link'));
     responsiveNavItems.map(function (responsiveNavItem) {
         responsiveNavItem.addEventListener('click', () => {
             if (window.getComputedStyle(navbarToggler).display !== 'none') {
@@ -29,8 +24,7 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-
-    // Yaml
+    // Load and apply YAML config to HTML
     fetch(content_dir + config_file)
         .then(response => response.text())
         .then(text => {
@@ -38,28 +32,27 @@ window.addEventListener('DOMContentLoaded', event => {
             Object.keys(yml).forEach(key => {
                 try {
                     document.getElementById(key).innerHTML = yml[key];
-                } catch {
-                    console.log("Unknown id and value: " + key + "," + yml[key].toString())
+                } catch (error) {
+                    console.error("Error setting content for ID:", key, "with error:", error);
                 }
-
-            })
+            });
         })
-        .catch(error => console.log(error));
+        .catch(error => console.error("Error loading YAML config:", error));
 
-
-    // Marked
-    marked.use({ mangle: false, headerIds: false })
-    section_names.forEach((name, idx) => {
-        fetch(content_dir + name + '.md')
+    // Load Markdown files, parse them, and inject into the webpage
+    marked.use({ mangle: false, headerIds: false });
+    section_names.forEach((section) => {
+        fetch(`${content_dir}${section}.md`)
             .then(response => response.text())
             .then(markdown => {
                 const html = marked.parse(markdown);
-                document.getElementById(name + '-md').innerHTML = html;
-            }).then(() => {
-                // MathJax
+                document.getElementById(`${section}-md`).innerHTML = html;
+            })
+            .then(() => {
+                // Update MathJax typesetting
                 MathJax.typeset();
             })
-            .catch(error => console.log(error));
-    })
+            .catch(error => console.error("Error loading or parsing markdown for section:", section, "with error:", error));
+    });
 
-}); 
+});
