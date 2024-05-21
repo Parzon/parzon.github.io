@@ -1,22 +1,27 @@
 ### Research Assistant - Claremont Graduate University
 **Data Science Lab & IDEA Lab, Jan 2024 - Present**
-- Actively engaged as a Research Assistant under the esteemed guidance of Dr. Li and Dr. Chatterjee in the realms of Data Science and Innovation, Design, and Entrepreneurship.
-- Co-developed and facilitated a groundbreaking course on Generative AI, serving as a Teaching Assistant, which empowered students to harness advanced AI technologies for creative and ethical applications.
-- Played a pivotal role in mentoring students, helping refine their research projects with a focus on societal impacts, fostering a bridge between technological innovation and entrepreneurial success.
+- Contributing as a Research Assistant under the guidance of Dr. Li and Dr. Chatterjee, focusing on Data Science and the interface between Innovation, Design, and Entrepreneurship.
+- Assisted in the development and delivery of an innovative course on Generative AI, enhancing student capabilities in leveraging advanced AI for creative solutions and ethical considerations.
+- Provided critical mentorship to students, enhancing their research projects with an emphasis on societal benefits, and promoting an integration of technological innovation with entrepreneurial endeavors.
 
 ### Business Analyst - Swastikas & Make Me Builder
 **Pune, India, 2021 - 2022**
-- Spearheaded data-driven strategies as a Business Analyst, leading marketing initiatives that propelled business growth and operational efficiency.
-- Implemented advanced analytical practices that significantly enhanced decision-making processes, boosting customer engagement and market penetration.
-- Orchestrated the digital transformation campaigns for small-scale enterprises, enhancing their competitive edge in a rapidly evolving business landscape.
+- Led data-driven strategies as a Business Analyst, enhancing marketing efforts and operational efficiencies which contributed to substantial business growth.
+- Advanced analytical practices were implemented, improving decision-making processes and amplifying market presence and customer engagement.
+- Directed digital transformation initiatives for small-scale enterprises, significantly increasing their competitive advantage in the market.
 
-### Digital Marketing Strategist - Family Real Estate Business, Yazata Estates Projects and Ahura Warehouseing
+### Digital Marketing Strategist - Family Real Estate Business, Yazata Estates Projects and Ahura Warehousing
 **2020-2021**
-- Revolutionized the digital presence of our family-owned real estate business by optimizing Google Business listings and digital marketing strategies.
-- Enhanced online visibility and customer interaction, which led to a substantial increase in client engagement and business inquiries, contributing to robust growth in sales and customer base.
+- Transformed the digital strategy for our family-owned real estate business, optimizing Google Business profiles and executing targeted digital marketing strategies.
+- Increased online visibility and customer interaction, resulting in a significant upsurge in inquiries and sustained business growth.
 
-### Volunteer - Robin Hood Army
+### Volunteer Activities
+
+#### President - CGU Machine Learning Club
+**March 2024 - Present**
+- Spearheaded the organization of semesterly datathons, collaborating with departments of Mathematics and Data Science. The events attracted participation from students and professionals, including statisticians and PhD candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognized in a competitive setting. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details on our events, visit our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
+
+#### Robin Hood Army
 **2019-2020**
-- Contributed to the Robin Hood Army's mission to combat hunger by organizing food collection drives and distributing meals to the underprivileged.
-- Played a key role in mobilizing resources and coordinating with local communities to ensure the effective distribution of necessities, thereby making a tangible difference in the lives of many.
-
+- Actively engaged in the Robin Hood Army's initiatives to alleviate hunger by organizing food drives and distributing meals to underprivileged communities.
+- Effectively coordinated with local entities to maximize resource allocation and distribution, significantly impacting the welfare of numerous individuals.
