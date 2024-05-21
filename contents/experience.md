@@ -1,5 +1,3 @@
-**Experience**
-
 ### Research Assistant - Claremont Graduate University
 **Data Science Lab & IDEA Lab, Jan 2024 - Present**
 - Actively engaged as a Research Assistant under the esteemed guidance of Dr. Li and Dr. Chatterjee in the realms of Data Science and Innovation, Design, and Entrepreneurship.
