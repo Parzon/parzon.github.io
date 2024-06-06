@@ -1,5 +1,5 @@
-### Research Assistant - Claremont Graduate University
-**Data Science Lab & IDEA Lab**
+### IDEA Lab and Data Science Lab
+**Research Assistant**
 *Jan 2024 - Present*  
 *Claremont, California, USA* 
 
