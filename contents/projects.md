@@ -13,7 +13,7 @@ In a significant stride towards enhancing cancer care, my team and I developed a
 
 I spearheaded the development of an internal AI-driven chatbot for Claremont Graduate University, designed to streamline information access for both staff and new students. This project employed fine-tuned language models with Retrieval Augmented Generation (RAG) and was built using the cutting-edge LangChain and GPT APIs. For easy deployment and user interaction, we utilized Streamlit to create a robust, intuitive interface. The model is currently in a private repo for privacy reasons with the university. But the trial version is shared below using Google Customizable Search Engine, StreamLit, OpenAI, and Langchain. 
 
-[View on GitHub](https://github.com/Parzon/CGU-AIChatbot)
+[View on GitHub](https://github.com/Parzon/CGUs-AI-Assistant-VS-Pb)
 
 
 #### Student Loan Risk Assessor
