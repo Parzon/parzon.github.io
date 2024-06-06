@@ -42,5 +42,5 @@ Pushing the boundaries of AI, this project aims at creating a digital persona th
   - Data Mining and Knowledge Discovery
   - Machine Learning
   - Data Integration with Pentaho Kettle
+  - Relational Databases with Azure Data Studio
   - Cloud Computing Solutions
-- **Data Visualization Tools:** Experienced with Tableau and Power BI for creating insightful data visualizations.
