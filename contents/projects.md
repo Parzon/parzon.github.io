@@ -1,6 +1,6 @@
 ### Project Highlights
 
-Welcome to my portfolio of projects where I harness advanced machine learning and artificial intelligence technologies to tackle complex real-world problems. Here’s a glimpse into some of the innovative work I’ve been involved in. Some are out for publicatioms, which are currently under review:
+Welcome to my portfolio of projects where I harness advanced machine learning and artificial intelligence technologies to tackle complex real-world problems. Here’s a glimpse into some of the innovative work I’ve been involved in. 
 
 #### ML in Healthcare: C-SCLC Prognosis and Survival Prediction
 
