@@ -6,7 +6,7 @@ I always enjoy extra-curriculars, as I'm currently the Machine Learning Club Pre
 parzon-eyzadpur.fardani@cgu.edu
 
 #### Resume
-[View my resume](https://drive.google.com/file/d/13FcqagRd4IGeCz9rdNU1OLrCohvlIEqA/view?usp=sharing)
+[View my resume](https://drive.google.com/file/d/10_9yGRglPAazzNTbEZctMzVUBquQEngu/view?usp=sharing)
 
 
 #### Education
