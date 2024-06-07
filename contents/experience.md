@@ -48,7 +48,8 @@ As an Internet Marketing Analyst, I played a crucial role in optimizing the comp
 
 ### Family Real Estate Business, Yazata Estates Projects and Ahura Warehousing
 **Digital Marketing Strategist**  
-*Pune, India (2020-2021)*  
+*Jan 2020- Aug 2020*  
+*Pune, Maharashtra, India*
 
 Transformed the digital strategy for our family-owned real estate business, optimizing Google Business profiles and executing targeted digital marketing strategies. Increased online visibility and customer interaction, resulting in a significant upsurge in inquiries and sustained business growth.
 
@@ -57,9 +58,11 @@ Transformed the digital strategy for our family-owned real estate business, opti
 
 #### President - CGU Machine Learning Club
 *March 2024 - Present*
+*Claremont, California, USA*
 - Spearheaded the organization of semesterly datathons, collaborating with departments of Mathematics and Data Science. The events attracted participation from students and professionals, including statisticians and PhD candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognized in a competitive setting. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details on our events, visit our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
 
 #### Robin Hood Army
 *January 2019 - December 2020*
+*Pune, Maharashtra, India*
 - Actively engaged in the Robin Hood Army's initiatives to alleviate hunger by organizing food drives and distributing meals to underprivileged communities.
 - Effectively coordinated with local entities to maximize resource allocation and distribution, significantly impacting the welfare of numerous individuals.
