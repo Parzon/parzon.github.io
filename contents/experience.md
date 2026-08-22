@@ -8,7 +8,7 @@
 - Build AI-native products and consulting solutions; architect agentic systems using hierarchical DAG-based knowledge representations, MCP tool interfaces, context engineering, and persistent agent memory.
 - Design multi-agent workflows for reasoning, orchestration, tool use, and long-term state management.
 - Lead product strategy, technical architecture, client discovery, consulting, and end-to-end development.
-- Currently deployed with 150 users: [Unified Learning](https://www.unifiedlearning.world), a multilingual, curriculum-aligned AI tutor.
+- Currently deployed with 150 users: [Unified Learning](https://www.unifiedlearning.world), a multilingual, curriculum-aligned AI tutor. Early results show a significant improvement in student outcomes; a paper on the results is forthcoming.
 
 See [zorashtechnologies.com](https://zorashtechnologies.com) for the current work.
 
