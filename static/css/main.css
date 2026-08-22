@@ -21,6 +21,16 @@
     height: 25rem;
 }
 
+@media screen and (max-width: 991px) {
+    /* Below lg, .col-lg-8/.col-lg-4 stack vertically and need more room
+       than the fixed 25rem height allows -- fixes the photo overlapping
+       the section that follows. */
+    .top-section {
+        height: auto;
+        padding: 7rem 0 3rem;
+    }
+}
+
 .top-section h2 {
     font-weight: 400;
 }
