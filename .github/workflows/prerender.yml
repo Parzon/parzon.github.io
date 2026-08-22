@@ -1,0 +1,47 @@
+name: Prerender content into index.html
+
+# contents/*.md is the editing surface; index.html ships with real
+# rendered content baked in so non-JS fetchers (link previews, curl,
+# some crawlers) see actual prose instead of "Content from X.md here."
+# See scripts/prerender.py for why.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "contents/**"
+      - "scripts/prerender.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prerender-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  prerender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install markdown beautifulsoup4
+
+      - run: python3 scripts/prerender.py
+
+      - name: Commit rendered index.html if it changed
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "No content changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "chore: prerender content into index.html [skip ci]"
+          git push
