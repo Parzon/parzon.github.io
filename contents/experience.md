@@ -1,44 +1,59 @@
 *Through 2024–25 I ran three concurrent engagements across industrial AI research, university research, and healthcare data consulting.*
 
 ### Zorash Technologies
-**Founder & Director**
-*2025 - Present*
+**Founder & Product Lead**
+*Nov 2025 - Present*
 *Pune, India*
 
-Building AI systems as engineered infrastructure — see [zorashtechnologies.com](https://zorashtechnologies.com) for the current work.
+- Build AI-native products and consulting solutions; architect agentic systems using hierarchical DAG-based knowledge representations, MCP tool interfaces, context engineering, and persistent agent memory.
+- Design multi-agent workflows for reasoning, orchestration, tool use, and long-term state management.
+- Lead product strategy, technical architecture, client discovery, consulting, and end-to-end development.
+- Currently deployed with 150 users: [Unified Learning](https://www.unifiedlearning.world), a multilingual, curriculum-aligned AI tutor.
+
+See [zorashtechnologies.com](https://zorashtechnologies.com) for the current work.
+
+### CGU Data Science and IDEA Lab
+**Research Assistant**
+*Jan 2024 - Nov 2025*
+*Claremont, California*
+
+- Spearheaded the university's AI implementation, course structure and projects.
+- Lead student developer of the Generative-AI four-credit class offered at Claremont Graduate University.
+- Researched LLMs, RAG, agentic architectures, knowledge representation, context engineering, and long-term AI memory.
 
 ### Bharat Forge
-**Research Intern → Research Associate**
+**Research Associate, AI Lab**
 *May 2024 - Sep 2025*
 *Pune, India*
 
-- Owned the design and delivery of the enterprise data warehouse end to end — the data foundation for the company's agentic AI systems. Led source-to-warehouse cleaning, dimensional modelling, and the overall data architecture, and drove the optimisation work that kept it performant as product development scaled.
-- Orchestrated and led GenAI, data science and data engineering projects at the company's new AI lab.
-- Conducted advanced AI/ML research with a focus on NLP, and integrated state-of-the-art models into production AI solutions.
-- Worked with cross-functional teams to translate research findings into working applications, designing and running the experiments that validated each model.
-- Mentored junior researchers and led team research activity.
+- Planned, architected and oversaw the end-to-end implementation of an on-prem data lakehouse for AI agents to use across business functions.
+- Developed and evaluated generative AI, NLP, and ML solutions for enterprise applications.
+- Built an intelligence layer across IoT data systems, SAP, SQL Servers and data lakes.
+- Led research activities and mentored junior researchers.
 
 ### LifeNet Health
-**Data Scientist**
+**Data Science Consultant**
 *Sep 2024 - Jan 2025*
+*Claremont, California*
 
-- Advised the client through planning and strategy sessions with C-suite stakeholders.
-- Cleaned and prepared the underlying data for analysis.
-- Built the data pipelines that fed the modelling work.
-- Developed the machine learning models and interpreted the results for a non-technical audience.
+- Consulted on clinical classification of skin-graft donations, including data pipelines, feature engineering, modelling, and interpretation.
+- Worked directly with client and C-suite stakeholders on data and strategy.
+- Developed a classification model achieving ~85% recall for skin-graft usability for downstream clinical use.
 
 ### Earlier
-Earlier: marketing, digital strategy and business-analyst roles across four organisations, 2020–2022.
+Marketing, digital strategy and business-analyst roles across four organisations, 2020–2022.
 
 ### Volunteer
 
 #### President - CGU Machine Learning Club
-*March 2024 - Present*
+*March 2024 - Nov 2025*
 *Claremont, California, USA*
-- Spearheaded the organization of semesterly datathons, collaborating with departments of Mathematics and Data Science. The events attracted participation from students and professionals, including statisticians and doctoral candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognized in a competitive setting. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details on our events, visit our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
+
+- Spearheaded the organization of semesterly datathons, collaborating with the departments of Mathematics and Data Science. The events attracted students and professionals, including statisticians and doctoral candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognised competitively. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details, see our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
 
 #### Robin Hood Army
 *January 2019 - December 2020*
 *Pune, Maharashtra, India*
-- Actively engaged in the Robin Hood Army's initiatives to alleviate hunger by organizing food drives and distributing meals to underprivileged communities.
-- Effectively coordinated with local entities to maximize resource allocation and distribution, significantly impacting the welfare of numerous individuals.
+
+- Organised food drives and distributed meals to underprivileged communities.
+- Coordinated with local entities to maximise resource allocation and distribution.

@@ -6,9 +6,7 @@ Welcome to my portfolio of projects where I harness advanced machine learning an
 
 *Aug 2025 - Feb 2026*
 
-A structured tutoring platform built on professionally curated knowledge graphs and predefined learning paths, so that guidance is constrained by syllabus-aligned data, prerequisite mappings, and expert-defined pathways rather than free-form model output. Curated knowledge graphs encode concept relationships and prerequisites; an agentic tutor stays grounded in verified curriculum source material rather than open-ended chat; the platform is multilingual (English / Hindi / Marathi) and multi-board (SSC / CBSE / ICSE) across classes 5-10; and an expert-in-the-loop curation portal means humans curate the graph, not the model.
-
-**My role:** built end to end, alone.
+A structured tutoring platform built on professionally curated knowledge graphs and predefined learning paths, so that guidance is constrained by syllabus-aligned data, prerequisite mappings, and expert-defined pathways rather than free-form model output. Curated knowledge graphs encode concept relationships and prerequisites; an agentic tutor stays grounded in verified curriculum source material rather than open-ended chat; the platform is multilingual (English / Hindi / Marathi) and multi-board (SSC / CBSE / ICSE) across classes 5-10; and an expert-in-the-loop curation portal means humans curate the graph, not the model. Designed and built end to end. Currently deployed with 150 users.
 
 [Visit unifiedlearning.world](https://www.unifiedlearning.world)
 
@@ -28,9 +26,7 @@ BabyClare was the precursor prototype to this work.
 
 *May 2024 - present (validation & clinical translation phase)*
 
-First author. SEER staging systems changed across the 2004–2020 window (AJCC 6th → 7th → SEER Combined → EOD 2018), so naive longitudinal modelling silently mixes incompatible labels. This study restricted to AJCC 6th (2004–2015) to hold label semantics constant. Dataset: 1,619 records, cleaned to 863. Built an ensemble of models with PyTorch, TensorFlow, and Scikit-learn; the best model, an SVM, achieved 81% recall on the high-risk (under 9 months survival) class, AUC 0.79.
-
-**My role:** end-to-end research to production, pair-programmed with a colleague (Kaijie Yu, second author).
+First author. SEER staging systems changed across the 2004–2020 window (AJCC 6th → 7th → SEER Combined → EOD 2018), so naive longitudinal modelling silently mixes incompatible labels. This study restricted to AJCC 6th (2004–2015) to hold label semantics constant. Dataset: 1,619 records, cleaned to 863. Built an ensemble of models with PyTorch, TensorFlow, and Scikit-learn; the best model, an SVM, achieved 81% recall on the high-risk (under 9 months survival) class, AUC 0.79. Research through to production, pair-programmed with Kaijie Yu, second author.
 
 This is a preprint — Zenodo, DOI [10.5281/zenodo.22055220](https://doi.org/10.5281/zenodo.22055220), CC-BY-4.0 — currently in a validation and clinical translation phase, not a finished, static result.
 
@@ -48,9 +44,7 @@ An internal research platform covering a survivorship-bias-free, point-in-time u
 
 *Jul 2026 - present*
 
-AI platform design for a professional audio software company: multilingual semantic search and automated metadata organisation for large professional sound libraries. Engagement beginning 2026.
-
-**My role:** solution architect for the engagement.
+AI platform design for a professional audio software company: multilingual semantic search and automated metadata organisation for large professional sound libraries. Engagement beginning 2026, covering end-to-end solution architecture.
 
 ---
 

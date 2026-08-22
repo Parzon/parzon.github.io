@@ -105,6 +105,10 @@ section .main-body{
 .photo img {
     margin-right: 10%;
     height: 12rem;
+    width: 9rem;              /* lock the 3:4 ratio so the portrait can never stretch */
+    object-fit: cover;
+    object-position: center 20%;   /* bias toward the face, not the chest */
+    border-radius: 0.5rem;
     margin-top: 8rem;
 }
 
@@ -124,6 +128,7 @@ section .main-body{
 
     .photo img {
         height: 12rem;
+        width: 9rem;
         margin-top: 3rem;
     }
 
@@ -132,9 +137,98 @@ section .main-body{
 @media screen and (max-width: 736px) {
 
     .photo img {
-        height: 7rem;
-        margin-top: 7rem;
+        height: 9rem;
+        width: 6.75rem;
+        margin-top: 2rem;
     }
 
 }
 
+
+/* ---------------------------------------------------------------------------
+   Vertical rhythm.
+   index.html marks sections with `mt5 md5`, which are not Bootstrap classes
+   (Bootstrap uses mt-5 / my-5, with hyphens) and are defined nowhere -- so every
+   section was rendering with zero vertical padding. That was the cramping.
+   Spacing is applied to the sections themselves so it cannot depend on a
+   class name that may or may not exist.
+--------------------------------------------------------------------------- */
+
+section[id] {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+section[id] header {
+    margin-bottom: 2rem;
+}
+
+section header h2 {
+    line-height: 1.25;          /* was 4rem -- ~1.7x the font size, which pushed
+                                   headings far off their own section */
+    margin-bottom: 0;
+    letter-spacing: -0.01em;
+}
+
+section .main-body {
+    line-height: 1.75;          /* was 2.4rem on a 1.3rem font (1.85) */
+    max-width: 68ch;            /* measure -- long lines are the other half of
+                                   why dense text reads as cramped */
+}
+
+section .main-body > * + * {
+    margin-top: 1.15rem;
+}
+
+section .main-body h3 {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 0.75rem;
+}
+
+section .main-body h4 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 2.5rem;
+    margin-bottom: 0.6rem;
+}
+
+section .main-body h3 + p,
+section .main-body h4 + p,
+section .main-body h4 + em,
+section .main-body h3 + em {
+    margin-top: 0.4rem;
+}
+
+section .main-body ul {
+    margin-top: 0.9rem;
+    padding-left: 1.35rem;
+}
+
+section .main-body li + li {
+    margin-top: 0.55rem;
+}
+
+section .main-body hr {
+    margin: 3.5rem 0;
+    opacity: 0.12;
+}
+
+section .main-body a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+@media screen and (max-width: 991px) {
+    section[id] {
+        padding-top: 3.25rem;
+        padding-bottom: 3.25rem;
+    }
+    section header h2 {
+        font-size: 1.85rem;
+    }
+    section .main-body {
+        font-size: 1.1rem;
+        line-height: 1.7;
+    }
+}
