@@ -1,9 +1,5 @@
-#### Research Interests
-My research interests include:
-
-- Deep Learning
-- Artificial Intelligence
-- Entrepreneurship and Leadership in Tech
-- Data Intensive Applications
-- Machine Learning in Healthcare
-- Applied AI Product Development and Delivery 
+- Agentic architectures and long-term AI memory
+- Large language models, retrieval-augmented generation, and context engineering
+- Knowledge representation for constrained, auditable AI systems
+- Machine learning in healthcare
+- Applied AI product development and delivery
