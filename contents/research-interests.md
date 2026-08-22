@@ -1,5 +1,6 @@
 #### Research Interests
-My research interests include- 
+My research interests include:
+
 - Deep Learning
 - Artificial Intelligence
 - Entrepreneurship and Leadership in Tech

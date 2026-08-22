@@ -1,65 +1,41 @@
-### IDEA Lab and Data Science Lab
-**Research Assistant**
-*Jan 2024 - Present*  
-*Claremont, California, USA* 
+*Through 2024–25 I ran three concurrent engagements across industrial AI research, university research, and healthcare data consulting.*
 
-- Contributing as a Research Assistant under the guidance of Dr. Li and Dr. Chatterjee, focusing on Data Science and the interface between Innovation, Design, and Entrepreneurship.
-- Assisted in the development and delivery of an innovative course on Generative AI, enhancing student capabilities in leveraging advanced AI for creative solutions and ethical considerations.
-- Provided critical mentorship to students, enhancing their research projects with an emphasis on societal benefits, and promoting an integration of technological innovation with entrepreneurial endeavors.
+### Zorash Technologies
+**Founder & Director**
+*2025 - Present*
+*Pune, India*
 
-### Make Me Builder
-**Digital Marketing Specialist Intern**  
-*Aug 2022 - Dec 2022 (5 months)*  
-*Pune, Maharashtra, India (Remote)*  
+Building AI systems as engineered infrastructure — see [zorashtechnologies.com](https://zorashtechnologies.com) for the current work.
 
-During my 6-month period as an Intern in digital marketing at Make Me Builder, I was instrumental in bridging the gap between technical operations and marketing initiatives. I assisted in the seamless integration of marketing software tools, troubleshooting issues related to CRM systems, email marketing platforms, and analytics dashboards. Collaborating closely with the digital marketing team, I ensured that campaigns ran smoothly by addressing technical glitches promptly and optimizing landing pages for performance.  
+### Bharat Forge
+**Research Intern → Research Associate**
+*May 2024 - Sep 2025*
+*Pune, India*
 
-- Spearheaded online campaigns using Google Ads, elevating web traffic by 30%.  
-- Employed SEO and SEM strategies with Moz and SEMrush, boosting keyword rankings and enhancing online visibility.  
-- Managed social media content calendar via Hootsuite, leading to a 35% increase in follower engagement.  
-- Analyzed web traffic and user engagement metrics with Google Analytics, identifying areas for optimization.  
-- Coordinated with graphic designers to produce compelling digital assets, improving click-through rates by 40%.
+- Owned the design and delivery of the enterprise data warehouse end to end — the data foundation for the company's agentic AI systems. Led source-to-warehouse cleaning, dimensional modelling, and the overall data architecture, and drove the optimisation work that kept it performant as product development scaled.
+- Orchestrated and led GenAI, data science and data engineering projects at the company's new AI lab.
+- Conducted advanced AI/ML research with a focus on NLP, and integrated state-of-the-art models into production AI solutions.
+- Worked with cross-functional teams to translate research findings into working applications, designing and running the experiments that validated each model.
+- Mentored junior researchers and led team research activity.
 
-### Amazon
-**Affiliate Marketing Specialist**  
-*Jun 2021 - Jul 2022 (1 year 2 months)*  
-*Pune, Maharashtra, India (Remote)*  
+### LifeNet Health
+**Data Scientist**
+*Sep 2024 - Jan 2025*
 
-As a Marketing Affiliate Specialist at Amazon, I was at the forefront of driving sales through our affiliate marketing channels. My primary responsibility was to manage and optimize our affiliate partnerships, ensuring that they aligned with Amazon's brand values and business objectives.  
+- Advised the client through planning and strategy sessions with C-suite stakeholders.
+- Cleaned and prepared the underlying data for analysis.
+- Built the data pipelines that fed the modelling work.
+- Developed the machine learning models and interpreted the results for a non-technical audience.
 
-- Strategized and executed affiliate marketing campaigns, generating a 35% revenue increase.  
-- Utilized platforms like ShareASale and CJ Affiliate for effective campaign management, expanding brand partnerships by 50%.  
-- Optimized landing pages and sales funnels using WordPress and Elementor, leading to a 20% improvement in conversion rates.  
-- Analyzed performance metrics with Google Analytics to continually refine strategies, boosting ROI by 30%.  
-- Networked and fostered strong relationships with affiliates, ensuring a reliable and growing revenue stream.
+### Earlier
+Earlier: marketing, digital strategy and business-analyst roles across four organisations, 2020–2022.
 
-### SWASTIKA AUTOMATION SOLUTIONS
-**Business Analyst Intern**  
-*Aug 2020 - Dec 2020 (5 months)*  
-*Pune, Maharashtra, India (Remote)*  
-
-As an Internet Marketing Analyst, I played a crucial role in optimizing the company's online marketing strategies. My responsibilities encompassed collecting and analyzing data on web traffic, conversion rates, and online customer behavior to identify trends and insights. Collaborating closely with the digital marketing team, I evaluated the effectiveness of email campaigns, PPC ads, and SEO strategies, and provided actionable recommendations to enhance ROI.  
-
-- Led market analysis using Power BI, fueling a 20% increase in customer engagement.  
-- Implemented Google Analytics to streamline decision-making, saving funds in marketing expenses.  
-- Cultivated teamwork using Slack and Trello, enhancing project efficiency.  
-- Utilized SWOT analysis, aiding in prominent growth in market share.  
-- Crafted and presented monthly reports to senior management, securing additional resources for future projects.
-
-### Family Real Estate Business, Yazata Estates Projects and Ahura Warehousing
-**Digital Marketing Strategist**  
-*Jan 2020- Aug 2020*  
-*Pune, Maharashtra, India*
-
-Transformed the digital strategy for our family-owned real estate business, optimizing Google Business profiles and executing targeted digital marketing strategies. Increased online visibility and customer interaction, resulting in a significant upsurge in inquiries and sustained business growth.
-
-
-### Volunteer Activities
+### Volunteer
 
 #### President - CGU Machine Learning Club
 *March 2024 - Present*
 *Claremont, California, USA*
-- Spearheaded the organization of semesterly datathons, collaborating with departments of Mathematics and Data Science. The events attracted participation from students and professionals, including statisticians and PhD candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognized in a competitive setting. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details on our events, visit our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
+- Spearheaded the organization of semesterly datathons, collaborating with departments of Mathematics and Data Science. The events attracted participation from students and professionals, including statisticians and doctoral candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognized in a competitive setting. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details on our events, visit our [Kaggle page](https://www.kaggle.com/competitions/cgu-datathon).
 
 #### Robin Hood Army
 *January 2019 - December 2020*

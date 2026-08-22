@@ -1,6 +1,6 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'research-interests', 'awards', 'projects', 'experience'];  // Added 'experience' to the array
+const section_names = ['home', 'research-interests', 'awards', 'projects', 'experience', 'publications'];
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -47,10 +47,6 @@ window.addEventListener('DOMContentLoaded', event => {
             .then(markdown => {
                 const html = marked.parse(markdown);
                 document.getElementById(`${section}-md`).innerHTML = html;
-            })
-            .then(() => {
-                // Update MathJax typesetting
-                MathJax.typeset();
             })
             .catch(error => console.error("Error loading or parsing markdown for section:", section, "with error:", error));
     });
