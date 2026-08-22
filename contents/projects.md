@@ -4,7 +4,7 @@ Welcome to my portfolio of projects where I harness advanced machine learning an
 
 #### ML in Healthcare: C-SCLC Prognosis and Survival Prediction
 
-In a significant stride towards enhancing cancer care, my team and I developed a machine learning model to predict prognosis and survival rates for patients with Combined-Small Cell Lung Cancer. Utilizing powerful frameworks like PyTorch and TensorFlow alongside libraries from Scikit-learn, we built an ensemlble of models to find the perfect fit. The best model achieved an impressive recall of 81% for identifying high-risk patients. This model's outcomes are profound, contributing to personalized medicine approaches and currently under review for publication in a prestigious journal.
+In a significant stride towards enhancing cancer care, my team and I developed a machine learning model to predict prognosis and survival rates for patients with Combined-Small Cell Lung Cancer. Utilizing powerful frameworks like PyTorch and TensorFlow alongside libraries from Scikit-learn, we built an ensemble of models to find the perfect fit. The best model achieved an impressive recall of 81% for identifying high-risk patients. This model's outcomes are profound, contributing to personalized medicine approaches and currently under review for publication in a prestigious journal.
 
 [View on GitHub](https://github.com/Parzon/C-SCLC-PrognosisML)
 
@@ -18,7 +18,7 @@ I spearheaded the development of an internal AI-driven chatbot for Claremont Gra
 
 #### Student Loan Risk Assessor
 
-Tackling the complexities of financial data, the Student Loan Risk Assessor leverages advanced data mining techniques to predict default risks. Givem by our college, taking advantange of their data science team, this project is a cornerstone in understanding and mitigating loan defaults, providing valuable insights that aid the financial department in making informed decisions.
+Tackling the complexities of financial data, the Student Loan Risk Assessor leverages advanced data mining techniques to predict default risks. Given by our college, taking advantage of their data science team, this project is a cornerstone in understanding and mitigating loan defaults, providing valuable insights that aid the financial department in making informed decisions.
 
 [View on GitHub](https://github.com/Parzon/StudentLoanRiskAsseser) 
 
