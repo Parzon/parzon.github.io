@@ -78,7 +78,9 @@
 <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
 <div class="container px-5">
 <header><h2>Introduction</h2></header>
-<div class="main-body" id="home-md"><p>Hi, I'm Parzon! I'm an AI engineer who builds AI systems end to end — from knowledge graphs and agentic tutoring platforms to production research infrastructure. I'm currently pursuing a Doctorate in Technology at Claremont Graduate University, majoring in AI Engineering, with research spanning Generative AI, Large Language Models, and Machine Learning for Healthcare.</p>
+<div class="main-body" id="home-md"><p>I'm an AI engineer. I take systems from architecture to production, and I've shipped them into five domains: <strong>manufacturing, oncology, mental health, education, and enterprise operations</strong>.</p>
+<p>That has meant a knowledge-graph tutoring platform now serving 150 students, a published empathetic conversational agent I built end to end, a first-author cancer survival model in clinical validation, and an on-prem data lakehouse serving AI agents across an industrial business.</p>
+<p>I'm completing a Doctorate in Technology at Claremont Graduate University, majoring in AI Engineering.</p>
 <h4>Email</h4>
 <p>parzon-eyzadpur.faridani@cgu.edu</p>
 <h4>Resume</h4>
@@ -95,15 +97,12 @@
 <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="research-interests">
 <div class="container px-5">
 <header><h2><i class="bi bi-search"></i> RESEARCH INTERESTS</h2></header>
-<div class="main-body" id="research-interests-md"><h4>Research Interests</h4>
-<p>My research interests include:</p>
-<ul>
-<li>Deep Learning</li>
-<li>Artificial Intelligence</li>
-<li>Entrepreneurship and Leadership in Tech</li>
-<li>Data Intensive Applications</li>
-<li>Machine Learning in Healthcare</li>
-<li>Applied AI Product Development and Delivery </li>
+<div class="main-body" id="research-interests-md"><ul>
+<li>Agentic architectures and long-term AI memory</li>
+<li>Large language models, retrieval-augmented generation, and context engineering</li>
+<li>Knowledge representation for constrained, auditable AI systems</li>
+<li>Machine learning in healthcare</li>
+<li>Applied AI product development and delivery</li>
 </ul></div>
 </div>
 </section>
@@ -111,44 +110,41 @@
 <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="projects">
 <div class="container px-5">
 <header><h2><i class="bi bi-github"></i> PROJECTS</h2></header>
-<div class="main-body" id="projects-md"><h3>Project Highlights</h3>
-<p>Welcome to my portfolio of projects where I harness advanced machine learning and artificial intelligence technologies to tackle complex real-world problems. Here's a glimpse into some of the innovative work I've been involved in.</p>
-<h4>Unified Learning with AI</h4>
-<p><em>Aug 2025 - Feb 2026</em></p>
-<p>A structured tutoring platform built on professionally curated knowledge graphs and predefined learning paths, so that guidance is constrained by syllabus-aligned data, prerequisite mappings, and expert-defined pathways rather than free-form model output. Curated knowledge graphs encode concept relationships and prerequisites; an agentic tutor stays grounded in verified curriculum source material rather than open-ended chat; the platform is multilingual (English / Hindi / Marathi) and multi-board (SSC / CBSE / ICSE) across classes 5-10; and an expert-in-the-loop curation portal means humans curate the graph, not the model. Designed and built end to end. Currently deployed with 150 users, with early results showing a significant improvement in student outcomes; a paper on the results is forthcoming.</p>
+<div class="main-body" id="projects-md"><h4>Unified Learning with AI</h4>
+<p><em>Aug 2025 – Feb 2026 · Education</em></p>
+<p>An AI tutor that can't make things up. Guidance is constrained by curated knowledge graphs, prerequisite mappings and syllabus-aligned pathways rather than free-form model output — experts define the graph, the model works inside it. Multilingual (English, Hindi, Marathi), multi-board (SSC, CBSE, ICSE), classes 5–10.</p>
+<p>Designed and built end to end, alone. Deployed with 150 users; early results show a significant improvement in student outcomes, with a paper forthcoming.</p>
 <p><a href="https://www.unifiedlearning.world">Visit unifiedlearning.world</a></p>
 <h4>ClareAI — Designing AI that Cares</h4>
-<p>Full title: <em>Designing AI that Cares: Empathetic Conversational Agents as Virtual Companions to Address Loneliness</em>. Published at AMCIS 2026 (Americas Conference on Information Systems), SIGHCI track. Authors: Armin Abazari, Samir Chatterjee, Nayana Bose, Parzon Eyzadpur Faridani.</p>
-<p>The research was designed and led by others; I built the entire system — taking a non-technical team's product vision through to a working, evaluated, published artefact. The architecture: <strong>Hume AI</strong> (multimodal affect recognition) → <strong>Gemini Flash 2.5</strong> (persona and therapeutic-strategy retrieval) → <strong>GPT-4</strong> (response generation) → <strong>AWS DynamoDB</strong> (rolling conversational memory) → <strong>HeyGen</strong> (embodied avatar with synchronised speech and expression).</p>
-<p>Evaluation: N = 13, within-person pre/post with seven days of naturalistic use. Loneliness fell significantly at 7 days (t(12) = 2.54, <em>p</em> = .026, d_z = 0.70) but not immediately post-session (<em>p</em> = .198). Social presence M = 5.42, trust M = 5.64 — the null immediate-effect result is reported alongside the significant one. Funded by the Blais Challenge Grant, Claremont Graduate University.</p>
+<p><em>May 2024 – Apr 2025 · Mental health</em></p>
+<p>An empathetic conversational agent for people experiencing loneliness, published at AMCIS 2026 (SIGHCI). The research was designed and led by others; <strong>I built the entire system</strong>, taking a non-technical team's vision through to a working, evaluated, published artefact.</p>
+<p>Five services, one real-time loop: multimodal affect recognition → therapeutic-strategy retrieval → response generation → persistent conversational memory → an embodied avatar with synchronised speech and expression.</p>
+<p>Loneliness fell significantly after seven days of use (<em>p</em> = .026, d<sub>z</sub> = 0.70) though not immediately post-session (<em>p</em> = .198) — both results reported. Social presence 5.42, trust 5.64. Funded by the Blais Challenge Grant, Claremont Graduate University.</p>
+<p>Authors: Armin Abazari, Samir Chatterjee, Nayana Bose, Parzon Eyzadpur Faridani.</p>
 <p><a href="https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/">View Paper</a></p>
 <h4>C-SCLC Prognosis and Survival Prediction</h4>
-<p><em>May 2024 - present (validation &amp; clinical translation phase)</em></p>
-<p>First author. SEER staging systems changed across the 2004–2020 window (AJCC 6th → 7th → SEER Combined → EOD 2018), so naive longitudinal modelling silently mixes incompatible labels. This study restricted to AJCC 6th (2004–2015) to hold label semantics constant. Dataset: 1,619 records, cleaned to 863. Built and compared an ensemble of models; the best, an SVM, achieved 81% recall on the high-risk (under 9 months survival) class, AUC 0.79. Research through to production, pair-programmed with Kaijie Yu, second author.</p>
+<p><em>May 2024 – present · Oncology · First author</em></p>
+<p>Cancer staging standards changed four times across the 2004–2020 SEER window, so longitudinal models built on the raw data silently mix incompatible labels. Restricting to a single staging edition kept the label semantics constant — 1,619 records cleaned to 863. The best model, an SVM, reached <strong>81% recall on the high-risk group</strong> (under nine months' survival), AUC 0.79.</p>
+<p>Research through to production, pair-programmed with Kaijie Yu. Now in clinical validation and translation.</p>
 <p><a href="https://github.com/Parzon/C-SCLC-PrognosisML">View on GitHub</a></p>
 <h4>Quant Research Platform</h4>
-<p><em>Apr 2026 - present</em></p>
-<p>An internal research platform covering a survivorship-bias-free, point-in-time universe of Indian equities reconstructed from seven historical NSE indices — roughly 745 symbols in the research pool, 251 in the live universe (NIFTY 100 + MIDCAP 150). Infrastructure: 31 GB of Hive-partitioned Parquet (23 GB minute bars), a DuckDB analytical store, a PostgreSQL OLTP sidecar, and Backblaze B2 cloud archival, plus a full Indian cost model (STT, brokerage, slippage, intraday-vs-delivery classification, per-financial-year tax computation with loss set-off, ex-date dividend crediting). A paper-trading engine runs 16 strategies on cron with reconciliation, corporate-action handling, delisting watch, kill switches, and Slack health alerts three times a day. Research reads a nightly read-only snapshot, deliberately isolated from the money path.</p>
+<p><em>Apr 2026 – present · Financial research infrastructure</em></p>
+<p>A survivorship-bias-free, point-in-time universe of Indian equities rebuilt from seven historical NSE indices — 745 symbols researched, 251 live. 31 GB of Hive-partitioned Parquet over a DuckDB analytical store and a PostgreSQL sidecar, with a full Indian cost and tax model down to per-financial-year loss set-off and ex-date dividend crediting.</p>
+<p>A paper-trading engine runs 16 strategies on cron with reconciliation, corporate-action handling, kill switches and thrice-daily health alerts. Research reads a nightly read-only snapshot, deliberately isolated from the money path.</p>
 <blockquote>
 <p>Internal research platform. Not an investment product, not investment advice, and no client capital is involved.</p>
 </blockquote>
 <h4>Soundlence</h4>
-<p><em>Jul 2026 - present</em></p>
-<p>AI platform design for a professional audio software company: multilingual semantic search and automated metadata organisation for large professional sound libraries. Engagement beginning 2026, covering end-to-end solution architecture.</p>
+<p><em>Jul 2026 – present · Professional audio</em></p>
+<p>End-to-end solution architecture for a professional audio software company: multilingual semantic search and automated metadata organisation across large sound libraries.</p>
 <hr/>
-<h4>Skills and Technologies</h4>
+<h4>Skills</h4>
 <ul>
-<li><strong>Languages:</strong> Python, SQL.</li>
-<li><strong>AI/ML:</strong> LLM orchestration, Retrieval-Augmented Generation, agentic architectures, MCP, context engineering, knowledge graphs, NLP.</li>
-<li><strong>Data:</strong> data engineering, data pipelines, dimensional modelling, PostgreSQL, DuckDB.</li>
-<li><strong>Cloud &amp; architecture:</strong> AWS, solution architecture.</li>
-<li><strong>Areas of Expertise:</strong></li>
-<li>Generative AI Development</li>
-<li>Fine-Tuning and Training Large Language Models (LLMs)</li>
-<li>Natural Language Processing</li>
-<li>Data Mining and Knowledge Discovery</li>
-<li>Machine Learning</li>
-<li>Product &amp; Project Management — roadmapping, scoping, delivery, and stakeholder management</li>
+<li><strong>Languages:</strong> Python, SQL</li>
+<li><strong>AI/ML:</strong> LLM orchestration, retrieval-augmented generation, agentic architectures, MCP, context engineering, knowledge graphs, NLP, fine-tuning</li>
+<li><strong>Data:</strong> data engineering, pipelines, dimensional modelling, PostgreSQL, DuckDB</li>
+<li><strong>Cloud &amp; architecture:</strong> AWS, solution architecture</li>
+<li><strong>Delivery:</strong> product and project management — roadmapping, scoping, stakeholder management</li>
 </ul></div>
 </div>
 </section>
@@ -156,15 +152,15 @@
 <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="experience">
 <div class="container px-5">
 <header><h2><i class="bi bi-briefcase"></i> EXPERIENCE</h2></header>
-<div class="main-body" id="experience-md"><p><em>Through 2024–25 I ran three concurrent engagements across industrial AI research, university research, and healthcare data consulting.</em></p>
+<div class="main-body" id="experience-md"><p><em>Through 2024–25 I ran three concurrent engagements — industrial AI research, university research, and healthcare data consulting.</em></p>
 <h3>Zorash Technologies</h3>
 <p><strong>Founder &amp; Product Lead</strong>
 <em>Nov 2025 - Present</em>
 <em>Pune, India</em></p>
 <ul>
-<li>Build AI-native products and consulting solutions; architect agentic systems using hierarchical DAG-based knowledge representations, MCP tool interfaces, context engineering, and persistent agent memory.</li>
+<li>Architect agentic systems: hierarchical DAG-based knowledge representations, MCP tool interfaces, context engineering, and persistent agent memory.</li>
 <li>Design multi-agent workflows for reasoning, orchestration, tool use, and long-term state management.</li>
-<li>Lead product strategy, technical architecture, client discovery, consulting, and end-to-end development.</li>
+<li>Lead product strategy, technical architecture, client discovery, and end-to-end delivery.</li>
 <li>Currently deployed with 150 users: <a href="https://www.unifiedlearning.world">Unified Learning</a>, a multilingual, curriculum-aligned AI tutor. Early results show a significant improvement in student outcomes; a paper on the results is forthcoming.</li>
 </ul>
 <p>See <a href="https://zorashtechnologies.com">zorashtechnologies.com</a> for the current work.</p>
@@ -174,7 +170,7 @@
 <em>Claremont, California</em></p>
 <ul>
 <li>Spearheaded the university's AI implementation, course structure and projects.</li>
-<li>Lead student developer of the Generative-AI four-credit class offered at Claremont Graduate University.</li>
+<li>Lead student developer of CGU's Generative AI course.</li>
 <li>Researched LLMs, RAG, agentic architectures, knowledge representation, context engineering, and long-term AI memory.</li>
 </ul>
 <h3>Bharat Forge</h3>
@@ -182,9 +178,9 @@
 <em>May 2024 - Sep 2025</em>
 <em>Pune, India</em></p>
 <ul>
-<li>Planned, architected and oversaw the end-to-end implementation of an on-prem data lakehouse for AI agents to use across business functions.</li>
-<li>Developed and evaluated generative AI, NLP, and ML solutions for enterprise applications.</li>
-<li>Built an intelligence layer across IoT data systems, SAP, SQL Servers and data lakes.</li>
+<li>Planned, architected and oversaw an on-prem data lakehouse, end to end — the data foundation for AI agents across the business.</li>
+<li>Developed and evaluated generative AI, NLP and ML solutions for enterprise applications.</li>
+<li>Built an intelligence layer spanning IoT systems, SAP, SQL Server and data lakes.</li>
 <li>Led research activities and mentored junior researchers.</li>
 </ul>
 <h3>LifeNet Health</h3>
@@ -192,9 +188,9 @@
 <em>Sep 2024 - Jan 2025</em>
 <em>Claremont, California</em></p>
 <ul>
-<li>Consulted on clinical classification of skin-graft donations, including data pipelines, feature engineering, modelling, and interpretation.</li>
-<li>Worked directly with client and C-suite stakeholders on data and strategy.</li>
-<li>Developed a classification model achieving ~85% recall for skin-graft usability for downstream clinical use.</li>
+<li>Consulted on clinical classification of skin-graft donations: data pipelines, feature engineering, modelling and interpretation.</li>
+<li>Worked directly with client and C-suite stakeholders on data strategy.</li>
+<li>Built a classification model reaching ~85% recall on skin-graft usability for downstream clinical use.</li>
 </ul>
 <h3>Earlier</h3>
 <p>Marketing, digital strategy and business-analyst roles across four organisations, 2020–2022.</p>
@@ -203,14 +199,13 @@
 <p><em>March 2024 - Nov 2025</em>
 <em>Claremont, California, USA</em></p>
 <ul>
-<li>Spearheaded the organization of semesterly datathons, collaborating with the departments of Mathematics and Data Science. The events attracted students and professionals, including statisticians and doctoral candidates, challenging them to derive insights from complex datasets. The best models, judged on accuracy, precision, F1 score, and AUC/ROC, were recognised competitively. Under the supervision of Dr. Qidi Peng for sponsorship and guidance. For more details, see our <a href="https://www.kaggle.com/competitions/cgu-datathon">Kaggle page</a>.</li>
+<li>Founded and ran CGU's semesterly datathons with the Mathematics and Data Science departments, drawing students, statisticians and doctoral candidates to compete on model accuracy, precision, F1 and AUC/ROC. Sponsored and advised by Dr. Qidi Peng. <a href="https://www.kaggle.com/competitions/cgu-datathon">See the competition</a>.</li>
 </ul>
 <h4>Robin Hood Army</h4>
 <p><em>January 2019 - December 2020</em>
 <em>Pune, Maharashtra, India</em></p>
 <ul>
-<li>Organised food drives and distributed meals to underprivileged communities.</li>
-<li>Coordinated with local entities to maximise resource allocation and distribution.</li>
+<li>Organised food drives and coordinated with local partners to distribute meals to underprivileged communities.</li>
 </ul></div>
 </div>
 </section>
@@ -218,16 +213,15 @@
 <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="publications">
 <div class="container px-5">
 <header><h2><i class="bi bi-journal-text"></i> PUBLICATIONS</h2></header>
-<div class="main-body" id="publications-md"><h3>Publications</h3>
-<h4>Designing AI that Cares: Empathetic Conversational Agents as Virtual Companions to Address Loneliness</h4>
+<div class="main-body" id="publications-md"><h4>Designing AI that Cares: Empathetic Conversational Agents as Virtual Companions to Address Loneliness</h4>
 <p><strong>Armin Abazari, Samir Chatterjee, Nayana Bose, Parzon Eyzadpur Faridani</strong>
-<em>AMCIS 2026 (Americas Conference on Information Systems), SIGHCI track</em></p>
-<p>Funded by the Blais Challenge Grant, Claremont Graduate University.</p>
+<em>AMCIS 2026 — Americas Conference on Information Systems, SIGHCI track</em></p>
+<p>Sole engineer on the system. Funded by the Blais Challenge Grant, Claremont Graduate University.</p>
 <p><a href="https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/">View Paper</a></p>
 <h4>A New Survival and Prognosis Predictive Model for Combined-Small Cell Lung Cancer (C-SCLC): A Machine Learning Approach</h4>
 <p><strong>Parzon Eyzadpur Faridani, Kaijie Yu</strong>
-<em>Preprint · Zenodo · DOI: <a href="https://doi.org/10.5281/zenodo.22055220">10.5281/zenodo.22055220</a> · CC-BY-4.0</em></p>
-<p>Currently in a validation and clinical translation phase.</p>
+<em>Preprint · Zenodo · DOI <a href="https://doi.org/10.5281/zenodo.22055220">10.5281/zenodo.22055220</a> · CC-BY-4.0</em></p>
+<p>First author. In clinical validation and translation.</p>
 <p><a href="papers/csclc-prognosis-survival-prediction.pdf">Download PDF</a> · <a href="https://doi.org/10.5281/zenodo.22055220">View Paper</a></p></div>
 </div>
 </section>
@@ -237,13 +231,13 @@
 <header><h2><i class="bi bi-award-fill"></i> AWARDS</h2></header>
 <div class="main-body" id="awards-md"><ul>
 <li>
-<p>Employee of the Quarter, Bharat Forge AI Lab, January 2025</p>
-</li>
-<li>
 <p>Blais Challenge Grant, Claremont Graduate University, December 2024 — competitive research funding awarded to the ClareAI project</p>
 </li>
 <li>
 <p>CGU Academic Fellowship Scholarship, 2022</p>
+</li>
+<li>
+<p>Employee of the Quarter, Bharat Forge AI Lab, January 2025</p>
 </li>
 <li>
 <p>Outstanding Leadership Award, Entrepreneurs Club, MIT-WPU, 2021</p>
