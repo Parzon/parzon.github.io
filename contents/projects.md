@@ -18,17 +18,13 @@ The research was designed and led by others; I built the entire system — takin
 
 Evaluation: N = 13, within-person pre/post with seven days of naturalistic use. Loneliness fell significantly at 7 days (t(12) = 2.54, *p* = .026, d_z = 0.70) but not immediately post-session (*p* = .198). Social presence M = 5.42, trust M = 5.64 — the null immediate-effect result is reported alongside the significant one. Funded by the Blais Challenge Grant, Claremont Graduate University.
 
-BabyClare was the precursor prototype to this work.
-
-[View the paper](https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/)
+[View Paper](https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/)
 
 #### C-SCLC Prognosis and Survival Prediction
 
 *May 2024 - present (validation & clinical translation phase)*
 
 First author. SEER staging systems changed across the 2004–2020 window (AJCC 6th → 7th → SEER Combined → EOD 2018), so naive longitudinal modelling silently mixes incompatible labels. This study restricted to AJCC 6th (2004–2015) to hold label semantics constant. Dataset: 1,619 records, cleaned to 863. Built an ensemble of models with PyTorch, TensorFlow, and Scikit-learn; the best model, an SVM, achieved 81% recall on the high-risk (under 9 months survival) class, AUC 0.79. Research through to production, pair-programmed with Kaijie Yu, second author.
-
-This is a preprint — Zenodo, DOI [10.5281/zenodo.22055220](https://doi.org/10.5281/zenodo.22055220), CC-BY-4.0 — currently in a validation and clinical translation phase, not a finished, static result.
 
 [View on GitHub](https://github.com/Parzon/C-SCLC-PrognosisML)
 
@@ -51,7 +47,7 @@ AI platform design for a professional audio software company: multilingual seman
 #### Skills and Technologies
 
 - **Programming Languages:** Python, SQL.
-- **AI/ML:** LLM orchestration (GPT-4, Gemini, Claude), Retrieval-Augmented Generation, knowledge graphs, PyTorch, scikit-learn.
+- **AI/ML:** LLM orchestration, Retrieval-Augmented Generation, agentic architectures, knowledge graphs, context engineering.
 - **Data:** data pipelines, PostgreSQL, DuckDB.
 - **Cloud:** AWS.
 - **Areas of Expertise:**
@@ -60,3 +56,4 @@ AI platform design for a professional audio software company: multilingual seman
   - Natural Language Processing
   - Data Mining and Knowledge Discovery
   - Machine Learning
+  - Product & Project Management — roadmapping, scoping, delivery, and stakeholder management

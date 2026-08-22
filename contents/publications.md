@@ -7,7 +7,7 @@
 
 Funded by the Blais Challenge Grant, Claremont Graduate University.
 
-[View at AIS eLibrary](https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/)
+[View Paper](https://aisel.aisnet.org/amcis2026/sig_hci/sig_hci/17/)
 
 #### A New Survival and Prognosis Predictive Model for Combined-Small Cell Lung Cancer (C-SCLC): A Machine Learning Approach
 
@@ -16,4 +16,4 @@ Funded by the Blais Challenge Grant, Claremont Graduate University.
 
 Currently in a validation and clinical translation phase.
 
-[Download PDF](papers/csclc-prognosis-survival-prediction.pdf) &middot; [View on Zenodo](https://doi.org/10.5281/zenodo.22055220)
+[Download PDF](papers/csclc-prognosis-survival-prediction.pdf) &middot; [View Paper](https://doi.org/10.5281/zenodo.22055220)

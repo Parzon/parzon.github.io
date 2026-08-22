@@ -6,4 +6,4 @@ My research interests include:
 - Entrepreneurship and Leadership in Tech
 - Data Intensive Applications
 - Machine Learning in Healthcare
-- Legal Data mining and applications. 
+- Applied AI Product Development and Delivery 
