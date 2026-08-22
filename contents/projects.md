@@ -46,10 +46,10 @@ AI platform design for a professional audio software company: multilingual seman
 
 #### Skills and Technologies
 
-- **Programming Languages:** Python, SQL.
-- **AI/ML:** LLM orchestration, Retrieval-Augmented Generation, agentic architectures, knowledge graphs, context engineering.
-- **Data:** data pipelines, PostgreSQL, DuckDB.
-- **Cloud:** AWS.
+- **Languages:** Python, SQL.
+- **AI/ML:** LLM orchestration, Retrieval-Augmented Generation, agentic architectures, MCP, context engineering, knowledge graphs, NLP.
+- **Data:** data engineering, data pipelines, dimensional modelling, PostgreSQL, DuckDB.
+- **Cloud & architecture:** AWS, solution architecture.
 - **Areas of Expertise:**
   - Generative AI Development
   - Fine-Tuning and Training Large Language Models (LLMs)
