@@ -8,7 +8,7 @@ I'm completing a Doctorate in Technology at Claremont Graduate University, major
 parzon-eyzadpur.faridani@cgu.edu
 
 #### Resume
-[View my CV](https://drive.google.com/file/d/1GzTn3WDefG_fXA97q6G4PNYHTlO0s_fV/view?usp=sharing) (updated August 2026)
+[View my CV](https://drive.google.com/file/d/1xq8lFSB02tVCZaSBM8rRDHvcDt9Afc6r/view?usp=sharing) (updated August 2026)
 
 #### Education
 - Doctorate in Technology (Major: AI Engineering), Claremont Graduate University, May 2024 – Present
