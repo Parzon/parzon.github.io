@@ -52,8 +52,7 @@ End-to-end solution architecture for a professional audio software company: mult
 
 #### Skills
 
-- **Languages:** Python, SQL
+- **Product & delivery:** problem definition, scoping and roadmapping, solution architecture, technical project management, client and C-suite stakeholder work
 - **AI/ML:** LLM orchestration, retrieval-augmented generation, agentic architectures, MCP, context engineering, knowledge graphs, NLP, fine-tuning
 - **Data:** data engineering, pipelines, dimensional modelling, PostgreSQL, DuckDB
-- **Cloud & architecture:** AWS, solution architecture
-- **Delivery:** product and project management — roadmapping, scoping, stakeholder management
+- **Languages & cloud:** Python, SQL, AWS

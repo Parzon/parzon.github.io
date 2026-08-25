@@ -2,4 +2,5 @@
 - Large language models, retrieval-augmented generation, and context engineering
 - Knowledge representation for constrained, auditable AI systems
 - Machine learning in healthcare
-- Applied AI product development and delivery
+- Applied AI product development, delivery, and evaluation
+- Translating ambiguous problems into AI systems that hold up in production

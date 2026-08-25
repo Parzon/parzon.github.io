@@ -5,10 +5,10 @@
 *Nov 2025 - Present*
 *Pune, India*
 
+- Own product strategy, technical architecture, client discovery, and end-to-end delivery.
+- Shipped [Unified Learning](https://www.unifiedlearning.world), a multilingual, curriculum-aligned AI tutor, now deployed with 150 users. Early results show a significant improvement in student outcomes; a paper on the results is forthcoming.
 - Architect agentic systems: hierarchical DAG-based knowledge representations, MCP tool interfaces, context engineering, and persistent agent memory.
 - Design multi-agent workflows for reasoning, orchestration, tool use, and long-term state management.
-- Lead product strategy, technical architecture, client discovery, and end-to-end delivery.
-- Currently deployed with 150 users: [Unified Learning](https://www.unifiedlearning.world), a multilingual, curriculum-aligned AI tutor. Early results show a significant improvement in student outcomes; a paper on the results is forthcoming.
 
 See [zorashtechnologies.com](https://zorashtechnologies.com) for the current work.
 

@@ -1,6 +1,8 @@
-I'm an AI engineer. I take systems from architecture to production, and I've shipped them into five domains: **manufacturing, oncology, mental health, education, and enterprise operations**.
+I take AI products from problem definition through architecture to production — and I've done it across **manufacturing, oncology, mental health, education, and enterprise operations**.
 
-That has meant a knowledge-graph tutoring platform now serving 150 students, a published empathetic conversational agent I built end to end, a first-author cancer survival model in clinical validation, and an on-prem data lakehouse serving AI agents across an industrial business.
+That has meant a knowledge-graph tutoring platform I designed and built end to end, now deployed with 150 users; an empathetic conversational agent taken from a non-technical team's vision to a published, evaluated system; a first-author cancer survival model in clinical validation; and an on-prem data lakehouse architected as the data foundation for AI agents across an industrial business.
+
+What I'm looking for: **product and delivery ownership of AI systems** — the work of deciding what to build, designing how it holds together, and seeing it into production. The engineering depth is what lets me do that credibly rather than at arm's length.
 
 I'm completing a Doctorate in Technology at Claremont Graduate University, majoring in AI Engineering.
 
